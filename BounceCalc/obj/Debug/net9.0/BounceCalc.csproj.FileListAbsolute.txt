@@ -1,0 +1,14 @@
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.AssemblyInfoInputs.cache
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.AssemblyInfo.cs
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.csproj.CoreCompileInputs.cache
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\bin\Debug\net9.0\BounceCalc.exe
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\bin\Debug\net9.0\BounceCalc.deps.json
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\bin\Debug\net9.0\BounceCalc.runtimeconfig.json
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\bin\Debug\net9.0\BounceCalc.dll
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\bin\Debug\net9.0\BounceCalc.pdb
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.dll
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\refint\BounceCalc.dll
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.pdb
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.genruntimeconfig.cache
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\ref\BounceCalc.dll
