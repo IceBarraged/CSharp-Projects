@@ -7,6 +7,8 @@ Project("{2150E333-8FDC-42A3-9474-1A3956D46DE8}") = "CsharpProjects", "CsharpPro
 EndProject
 Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "TestProject", "CsharpProjects\TestProject\TestProject.csproj", "{6BF7D1D7-C19A-47E0-B73F-EE5917293115}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "MontyHallProblem", "MontyHallProblem\MontyHallProblem.csproj", "{FD73AE34-98B8-4B56-A9F9-3D10A8092385}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -17,6 +19,10 @@ Global
 		{6BF7D1D7-C19A-47E0-B73F-EE5917293115}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{6BF7D1D7-C19A-47E0-B73F-EE5917293115}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{6BF7D1D7-C19A-47E0-B73F-EE5917293115}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FD73AE34-98B8-4B56-A9F9-3D10A8092385}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FD73AE34-98B8-4B56-A9F9-3D10A8092385}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FD73AE34-98B8-4B56-A9F9-3D10A8092385}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FD73AE34-98B8-4B56-A9F9-3D10A8092385}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE

@@ -1,0 +1,15 @@
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\MontyHallProblem.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\MontyHallProblem.AssemblyInfoInputs.cache
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\MontyHallProblem.AssemblyInfo.cs
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\MontyHallProblem.csproj.CoreCompileInputs.cache
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\MontyHallProblem.sourcelink.json
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\bin\Debug\net9.0\MontyHallProblem.exe
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\bin\Debug\net9.0\MontyHallProblem.deps.json
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\bin\Debug\net9.0\MontyHallProblem.runtimeconfig.json
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\bin\Debug\net9.0\MontyHallProblem.dll
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\bin\Debug\net9.0\MontyHallProblem.pdb
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\MontyHallProblem.dll
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\refint\MontyHallProblem.dll
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\MontyHallProblem.pdb
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\MontyHallProblem.genruntimeconfig.cache
+C:\Users\mesil\Documents\Oliver\Code Projects C#\MontyHallProblem\obj\Debug\net9.0\ref\MontyHallProblem.dll

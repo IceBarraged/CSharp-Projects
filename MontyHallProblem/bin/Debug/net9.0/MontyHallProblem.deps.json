@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v9.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v9.0": {
+      "MontyHallProblem/1.0.0": {
+        "runtime": {
+          "MontyHallProblem.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "MontyHallProblem/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

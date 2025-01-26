@@ -12,3 +12,4 @@ C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\ref
 C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.pdb
 C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.genruntimeconfig.cache
 C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\ref\BounceCalc.dll
+C:\Users\mesil\Documents\Oliver\Code Projects C#\BounceCalc\obj\Debug\net9.0\BounceCalc.sourcelink.json
